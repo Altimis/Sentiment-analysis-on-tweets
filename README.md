@@ -1,6 +1,6 @@
 # Netflix vs Disney+ reputation in USA and Europe
 
-Using sentiment analysis on Tweets streamed for 7 days (from February 1 2020 to February 8 2020), I studied the popularity of Netflix and Disney+ in the US and Europe, and used Bokeh library to visualize these results. 
+Using sentiment analysis on Tweets streamed for 7 days (from February 1 2020 to February 8 2020), I studied the reputation (polarity) of Netflix and Disney+ in the US and Europe, and used Bokeh library to visualize these results. 
 
 ## Getting started
 
