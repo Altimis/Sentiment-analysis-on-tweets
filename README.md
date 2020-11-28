@@ -34,3 +34,8 @@ Here is the visualization of polarity of Netflix and Disney+ tweets in both US a
 * USA : 
 
 ![](bokeh_plot_usa.png?raw=true)
+
+Despite the limited data (only 7 days), I was able to get some useful information from it: 
+
+- Disney+ is more popular in this period than netflix in Europe. In fact, during this period, Disney+ reached its peak in the stock market.
+- On February 5, 2020, Toy story 4 was released on Disney+, which justifies the increase of positive tweets on Disney+ in the US compared to netflix, which started to decrease. 
