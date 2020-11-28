@@ -23,3 +23,14 @@ To visualize the results of this projet, loacte to this repository after cloning
 ```sh
 bokeh serve --show tweet_app.py
 ```
+## Results 
+
+Here is the visualization of polarity of Netflix and Disney+ tweets in both US and Europe. 
+
+* Europe : 
+
+![](bokeh_plot_europe.png?raw=true)
+
+* USA : 
+
+![](bokeh_plot_usa.png?raw=true)
