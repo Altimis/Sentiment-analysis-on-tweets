@@ -20,6 +20,6 @@ pandas, tweepy, bokeh, nltk and cryptography
 
 To visualize the results of this projet, loacte to this repository after cloning it and execute this command : 
 
-'''sh
+```sh
 bokeh serve --show tweet_app.py
-'''
+```
